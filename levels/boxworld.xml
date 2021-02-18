@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE SokobanLevels SYSTEM "SokobanLev.dtd">
+<SokobanLevels>
+  <Title>@GAME PROJECT BY CLEAVELAND .O</Title>
+  <Description>You have 10 levels of play.
+  Each level aside form the first level will introduce a new feature of gameplay.
+  Complete game by placing all krates to target squares.
+  GOOD LUCK!!!!</Description>
+  <Email></Email>
+  <Url></Url>
+  <LevelCollection Copyright="CLEAVELAND" MaxWidth="13" MaxHeight="11">
+    <Level Id="BW1" Width="8" Height="8">
+      <L>########</L>
+      <L>#      #</L>
+      <L># $$   ###</L>
+      <L>#  $ $$$ #####</L>
+      <L>## ## ...    ##</L>
+      <L> # #@#...###$ #</L>
+      <L> # # $...     #</L>
+      <L>## # $...$ # ##</L>
+      <L>#  ##### ### #</L>
+      <L>#      $   $ #</L>
+      <L>###########  #</L>
+      <L>          ####</L>
+    </Level>
+    <Level Id="BW2" Width="9" Height="9">
+      <L>#####</L>
+      <L>#@  #</L>
+      <L># $$#=###</L>
+      <L># $ #=#.#</L>
+      <L>### ###.#</L>
+      <L> ##    .#</L>
+      <L> #   #  #</L>
+      <L> #   ####</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="BW3" Width="8" Height="8">
+      <L> ####</L>
+      <L> #@ ###</L>
+      <L> # $  #</L>
+      <L>### # ##</L>
+      <L>#.# #  #</L>
+      <L>#.$  # #</L>
+      <L>#.   $ #</L>
+      <L>########</L>
+    </Level>
+  <Level Id="BW4" Width="7" Height="8">
+      <L>#######</L>
+      <L>#..$..#</L>
+      <L>#..#..#</L>
+      <L># $$$ #</L>
+      <L>#  $  #</L>
+      <L># $$$ #</L>
+      <L>#  #@ #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="BW5" Width="11" Height="8">
+      <L>   ######</L>
+      <L>   # ...#</L>
+      <L>####....#</L>
+      <L>#  ###$ ###</L>
+      <L># $ $  $$ #</L>
+      <L>#@ $ $    #</L>
+      <L>#   ###   #</L>
+      <L>#####=#####</L>
+    </Level>
+    <Level Id="BW6" Width="9" Height="9">
+      <L>########</L>
+      <L>#      #</L>
+      <L># #$$  #</L>
+      <L># ...# #</L>
+      <L>##...$ ##</L>
+      <L> # ## $ #</L>
+      <L> #$  $  #</L>
+      <L> #  #  @#</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="BW7" Width="10" Height="8">
+      <L>  #####</L>
+      <L>###   ####</L>
+      <L>#   $ $  #</L>
+      <L># $   $ @#</L>
+      <L>###$$#####</L>
+      <L>  #  ..#</L>
+      <L>  #....#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="BW8" Width="14" Height="9">
+      <L>######===#####</L>
+      <L>#    ###=#  .#</L>
+      <L>#  $ $ #=#...#</L>
+      <L># #  $ ###  .#</L>
+      <L>#  $$$   $ @.#</L>
+      <L>###  $  $#  .#</L>
+      <L>  #  $#$ #...#</L>
+      <L>  ##     #  .#</L>
+      <L>   ###########</L>
+    </Level>
+    <Level Id="BW9" Width="11" Height="10">
+      <L>     ######</L>
+      <L> #####.   #</L>
+      <L> #  #..## #</L>
+      <L> #  $..   #</L>
+      <L> #  # .# ##</L>
+      <L>### ##$#  #</L>
+      <L># $    $$ #</L>
+      <L># #$#  #  #</L>
+      <L>#@  #######</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="BW10" Width="13" Height="12">
+      <L> #########</L>
+      <L> #   ##  ####</L>
+      <L> # $        #</L>
+      <L> ##$### ##  #</L>
+      <L> #  ## * # ##</L>
+      <L> # $...... #</L>
+      <L>## ### . # #</L>
+      <L>#     $###$#</L>
+      <L>#   #    $@#</L>
+      <L>#####$# ####</L>
+      <L>    #   #</L>
+      <L>    #####</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

@@ -1,0 +1,11 @@
+C:\Users\cleav\Desktop\SHOOL\SOKOBAN\SokobanPro(1)\Sokoban Pro\obj\Debug\Sokoban Pro.csprojResolveAssemblyReference.cache
+C:\Users\cleav\Desktop\SHOOL\SOKOBAN\SokobanPro(1)\Sokoban Pro\obj\Debug\SokobanPro.Board.resources
+C:\Users\cleav\Desktop\SHOOL\SOKOBAN\SokobanPro(1)\Sokoban Pro\obj\Debug\SokobanPro.FormLevels.resources
+C:\Users\cleav\Desktop\SHOOL\SOKOBAN\SokobanPro(1)\Sokoban Pro\obj\Debug\SokobanPro.FormPlayers.resources
+C:\Users\cleav\Desktop\SHOOL\SOKOBAN\SokobanPro(1)\Sokoban Pro\obj\Debug\Sokoban Pro.csproj.GenerateResource.Cache
+C:\Users\cleav\Desktop\SHOOL\SOKOBAN\SokobanPro(1)\Sokoban Pro\obj\Debug\Sokoban Pro.exe
+C:\Users\cleav\Desktop\SHOOL\SOKOBAN\SokobanPro(1)\Sokoban Pro\obj\Debug\Sokoban Pro.pdb
+C:\Users\cleav\Desktop\SHOOL\SOKOBAN\SokobanPro(1)\Sokoban Pro\Sokoban Pro.exe
+C:\Users\cleav\Desktop\SHOOL\SOKOBAN\SokobanPro(1)\Sokoban Pro\Sokoban Pro.pdb
+C:\Users\cleav\Desktop\SHOOL\SOKOBAN\Sokoban Pro\obj\Debug\Sokoban Pro.exe
+C:\Users\cleav\Desktop\SHOOL\SOKOBAN\Sokoban Pro\obj\Debug\Sokoban Pro.pdb
